@@ -9,4 +9,4 @@ else:
     num2 = int(sys.argv[2])
     
     # Perform addition and print the result
-    print(f"Addition of {num1} & {num2} is {num1 + num2}")
+    print(f"Addition of {num1} & {num2} is {num1 + num2}")
